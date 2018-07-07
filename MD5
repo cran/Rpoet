@@ -1,0 +1,12 @@
+a8474bc9d3a443349afd71b9696bc05b *DESCRIPTION
+fa34fca858786e15396e0f352ba333ec *NAMESPACE
+c573435d1d6fd71162286cb5a065193b *R/get_poetry.R
+730fd1a3752ab5269b1d3d5d3b7315cd *README.md
+cfee9b957c8c04f9c11d010cd5ec7dcb *build/vignette.rds
+a363b44d9df6d320dc99d869038056f8 *inst/doc/Rpoet_Introduction.R
+3006606525442ef2524581c8d2377f0e *inst/doc/Rpoet_Introduction.Rmd
+37ec96c980d34860da6cd1f6963c0753 *inst/doc/Rpoet_Introduction.html
+ecf708a63c2b9dcba4a0f4879f544e51 *man/get.poetry.Rd
+3fb9bad2ebebf3afd20ffcf5bb34b6a3 *tests/testthat.R
+5fe224f1fb0817414fac686de1089207 *tests/testthat/test-getpoetry.R
+3006606525442ef2524581c8d2377f0e *vignettes/Rpoet_Introduction.Rmd
