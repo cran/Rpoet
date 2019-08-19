@@ -1,9 +1,9 @@
 Package: Rpoet
 Type: Package
 Title: 'PoetryDB' API Wrapper
-Version: 1.0.1
+Version: 1.1.0
 Author: Aaron Schlegel
-Maintainer: Aaron Schlegel <aaron@aaronschlegel.com>
+Maintainer: Aaron Schlegel <aaron@aaronschlegel.me>
 Description: 
   Wrapper for the 'PoetryDB' API <http://poetrydb.org> that allows for interaction and data extraction from the 
   database in an R interface. The 'PoetryDB' API is a database of poetry and poets implemented with 'MongoDB' to 
@@ -11,11 +11,10 @@ Description:
 License: GPL-2
 Encoding: UTF-8
 LazyData: true
-Imports: jsonlite, httr, stringr
 RoxygenNote: 6.0.1
 VignetteBuilder: knitr
-Suggests: httptest, testthat, knitr, rmarkdown
+Suggests: testthat, knitr, rmarkdown, jsonlite, httr, stringr
 NeedsCompilation: no
-Packaged: 2018-07-01 15:31:51 UTC; aaronschlegel
+Packaged: 2019-08-19 18:01:10 UTC; aaronschlegel
 Repository: CRAN
-Date/Publication: 2018-07-07 22:10:03 UTC
+Date/Publication: 2019-08-19 18:30:06 UTC
